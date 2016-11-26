@@ -7,7 +7,6 @@ SITENAME = u'My Attempt at the Internet'
 SITEURL = ''
 
 PATH = 'content'
-
 TIMEZONE = 'America/Los_Angeles'
 
 DEFAULT_LANG = u'en'
@@ -20,7 +19,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),)
+LINKS = ()
 
 # Social widget
 SOCIAL = ()
@@ -32,14 +31,17 @@ DEFAULT_PAGINATION = 10
 
 #Plugins Config
 PLUGIN_PATHS = ["plugins", "plugins/pelican-plugins"]
-PLUGINS = ["gallery", "thumbnailer"]
+PLUGINS = ["photos"]
 
-#Gallery Plugin
-GALLERY_PATH = "images/gallery"
+#Photos Plugin
+PHOTO_LIBRARY = "images/gallery"
+PHOTO_GALLERY = (1024, 768, 80)
+PHOTO_ARTICLE = ( 760, 506, 80)
+PHOTO_THUMB = (192, 144, 60)
+PHOTO_RESIZE_JOBS = 4
+PHOTO_WATERMARK = True
+PHOTO_WATERMARK_TEXT = 'Lee Dobryden'
+#PHOTO_WATERMARK_IMG = ''
 
-#Thumbnailer Plugin
-IMAGE_PATH = "images/gallery"
-THUMBNAIL_DIR = "images/thumbnails"
-#THUMBNAIL_SIZES = [("200x?")]
-THUMBNAIL_KEEP_NAME = True
-THUMBNAIL_KEEP_TREE = True
+#Theme Vars
+USE_LESS = True

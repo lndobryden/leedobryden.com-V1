@@ -1,2 +1,3 @@
-title:All Images
+title:My Photography
 template:gallery
+gallery: {photo}test
