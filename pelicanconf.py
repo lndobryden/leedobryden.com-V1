@@ -29,3 +29,17 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+#Plugins Config
+PLUGIN_PATHS = ["plugins", "plugins/pelican-plugins"]
+PLUGINS = ["gallery", "thumbnailer"]
+
+#Gallery Plugin
+GALLERY_PATH = "images/gallery"
+
+#Thumbnailer Plugin
+IMAGE_PATH = "images/gallery"
+THUMBNAIL_DIR = "images/thumbnails"
+#THUMBNAIL_SIZES = [("200x?")]
+THUMBNAIL_KEEP_NAME = True
+THUMBNAIL_KEEP_TREE = True
