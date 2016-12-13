@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'Lee Dobryden'
-SITENAME = u'My Attempt at the Internet'
+SITENAME = u'leedobryden.com'
 SITEURL = ''
 
 PATH = 'content'
@@ -22,7 +22,8 @@ AUTHOR_FEED_RSS = None
 LINKS = ()
 
 # Social widget
-SOCIAL = ()
+SOCIAL = (('github', 'https://github.com/lndobryden'),
+            ('linkedin', 'https://www.linkedin.com/in/lee-dobryden-6aa62994'))
 
 DEFAULT_PAGINATION = 10
 
