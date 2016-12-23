@@ -6,6 +6,6 @@ First Post!
 :category:
 :slug: first-post
 :authors: Lee Dobryden
-:summary: The First Post
+:summary: My First Post
 
-Starting a place to put my photos and projects.
+Starting a place to put my photos, projects, and thoughts.
