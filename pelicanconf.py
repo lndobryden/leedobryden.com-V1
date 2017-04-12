@@ -46,3 +46,10 @@ PHOTO_WATERMARK_TEXT = 'Lee Dobryden'
 
 #Theme Vars
 USE_LESS = True
+
+STATIC_PATHS = ['images',
+    'static/keybase.txt',
+    ]
+EXTRA_PATH_METADATA = {
+    'static/keybase.txt': {'path': 'keybase.txt'},
+    }

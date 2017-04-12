@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/lndobryden
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://leedobryden.com
+  * I am lndobryden (https://keybase.io/lndobryden) on keybase.
+  * I have a public key ASCxpDNCiKVR1e9Vmm54nS2N68lUgi8Eqbz4bc8qJCjuzwo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01019bfc4fd16f5101c124cd87180f544125d1509e300bbc465cf9bb82fc6d5b5eb80a",
+            "host": "keybase.io",
+            "kid": "0120b1a4334288a551d5ef559a6e789d2d8debc954822f04a9bcf86dcf2a2428eecf0a",
+            "uid": "a0075389ff907ba5b88fab491da08819",
+            "username": "lndobryden"
+        },
+        "service": {
+            "hostname": "leedobryden.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.20"
+    },
+    "ctime": 1492016605,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1492016587,
+        "hash": "21f859b18f6724c9a7fe572c686e2dd96c0c83477173b41393d893b588472ec5ad8f0f6e3ddb04b1c2c92844d9d21b128687238cb72322a3f7650081d12aac22",
+        "seqno": 1015271
+    },
+    "prev": "31cb5ed81faaa42750ba8120b038f57d7ce1a8e20d018b0f7782961ec2bf6847",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgsaQzQoilUdXvVZpueJ0tjevJVIIvBKm8+G3PKiQo7s8Kp3BheWxvYWTFAvp7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxOWJmYzRmZDE2ZjUxMDFjMTI0Y2Q4NzE4MGY1NDQxMjVkMTUwOWUzMDBiYmM0NjVjZjliYjgyZmM2ZDViNWViODBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYjFhNDMzNDI4OGE1NTFkNWVmNTU5YTZlNzg5ZDJkOGRlYmM5NTQ4MjJmMDRhOWJjZjg2ZGNmMmEyNDI4ZWVjZjBhIiwidWlkIjoiYTAwNzUzODlmZjkwN2JhNWI4OGZhYjQ5MWRhMDg4MTkiLCJ1c2VybmFtZSI6ImxuZG9icnlkZW4ifSwic2VydmljZSI6eyJob3N0bmFtZSI6ImxlZWRvYnJ5ZGVuLmNvbSIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjIwIn0sImN0aW1lIjoxNDkyMDE2NjA1LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0OTIwMTY1ODcsImhhc2giOiIyMWY4NTliMThmNjcyNGM5YTdmZTU3MmM2ODZlMmRkOTZjMGM4MzQ3NzE3M2I0MTM5M2Q4OTNiNTg4NDcyZWM1YWQ4ZjBmNmUzZGRiMDRiMWMyYzkyODQ0ZDlkMjFiMTI4Njg3MjM4Y2I3MjMyMmEzZjc2NTAwODFkMTJhYWMyMiIsInNlcW5vIjoxMDE1MjcxfSwicHJldiI6IjMxY2I1ZWQ4MWZhYWE0Mjc1MGJhODEyMGIwMzhmNTdkN2NlMWE4ZTIwZDAxOGIwZjc3ODI5NjFlYzJiZjY4NDciLCJzZXFubyI6OCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEDf9oPGC3N16FwQtZppSwhKmPyMFt7Fku9TqfBHfWcmlsp6HhTaWLGlldbJIhA7fZABEC0sabbja6MzOZwPN6YIqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQg3sD3HchcchleZ+l7QdoGi1/2e5ibJBV/f3LHZGa9pgyjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/lndobryden
+
+==================================================================
