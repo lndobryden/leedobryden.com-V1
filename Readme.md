@@ -1,7 +1,8 @@
 Source files for leedobryden.com
 
 To Test:
-`make clean && make publish && make serve`
+`fab build && fab serve`
 
 To Publish:
-`make clean && make publish && make s3_upload`
+s3cmd needs to be installed and credentials setup per standard setup
+`fab publish`
