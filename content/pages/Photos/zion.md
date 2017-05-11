@@ -1,4 +1,4 @@
 title: Zion Trip - 2011
 template:gallery
-gallery: {photo}Zion
+gallery: {photo}gallery/Zion
 status: hidden

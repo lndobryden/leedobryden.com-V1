@@ -35,7 +35,7 @@ PLUGIN_PATHS = ["plugins", "plugins/pelican-plugins"]
 PLUGINS = ["photos"]
 
 #Photos Plugin
-PHOTO_LIBRARY = "images/gallery"
+PHOTO_LIBRARY = "images"
 PHOTO_GALLERY = (1024, 768, 100)
 PHOTO_ARTICLE = ( 760, 506, 80)
 PHOTO_THUMB = (600, 1200, 80)
