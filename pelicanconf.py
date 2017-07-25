@@ -49,7 +49,9 @@ USE_LESS = True
 
 STATIC_PATHS = ['images',
     'static/keybase.txt',
+    'static/.well-known'
     ]
 EXTRA_PATH_METADATA = {
     'static/keybase.txt': {'path': 'keybase.txt'},
+    'static/.well-known/*': {'path': '.well-known/*'},
     }
