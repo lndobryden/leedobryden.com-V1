@@ -22,3 +22,25 @@ Go! St. Louis Marathon - 4/12/15 - 3:51:55
 Madison Marathon - 11/8/2015 - 4:24:34
 
 Grandma's Marathon (Duluth, MN)- 6/18/2016 - 5:29:46
+
+
+
+
+
+## Half Marathons
+---------
+Detroit Free Press 1st Half Marathon 10/16/11 - 1:52:31
+
+Detroit Free Press 1st Half Marathon 10/20/13 - 1:52:21
+
+Seaside Half Marathon (Seaside, FL) 3/3/17 - 2:08:10
+
+San Francisco 2nd Half Marathon 7/23/17 - 1:48:34
+
+
+
+
+
+## Other Races
+---------
+25k - 5/3 Riverbank Run (Grand Rapids, MI) 5/10/14 - 2:09:16
