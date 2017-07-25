@@ -47,6 +47,8 @@ PHOTO_WATERMARK_TEXT = 'Lee Dobryden'
 #Theme Vars
 USE_LESS = True
 
+GOOGLE_ANALYTICS = "UA-103198821-1"
+
 STATIC_PATHS = ['images',
     'static/keybase.txt',
     'static/.well-known'
