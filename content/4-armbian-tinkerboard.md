@@ -23,6 +23,8 @@ immediately prompted to change it, and create a new primary user. This is a grea
 attention to detail by the armbian team. The armbian teams notes a couple issues
 with the TinkerBoard, mentioning there's some issues with the ethernet driver. I
 haven't tested this at all to confirm, but the ethernet seems to work well enough.
+The only thing I've noticed so far is that when booting up a fresh image, the
+ethernet adapter will get a new MAC address. The MAC address is stable through reboots.
 One large issue is that rebooting doesn't work properly. However as of a couple days
 ago there's a patch to address this in the 4.13 kernel that should hopefully be
 mainlined soon.
